@@ -15,7 +15,7 @@ sudo apt install openssl
 
 ###### Clone this repository to your working directory and remove placeholder files:
 ```bash
-git clone https://github.com/gq97a6/mosquitto_server_docker .
+git clone https://github.com/gq97a6/mosquitto-server-docker .
 rm ./configs/enabled/remove.me ./certs/trusted/remove.me ./certs/self/remove.me ./certs/client/remove.me ./scripts/outputs/remove.me
 ```
 
